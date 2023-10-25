@@ -37,12 +37,12 @@ Createur: **Tom ANDRE**
 
 ## 📑 Etapes :
 
-- [x] **Étape n° 1 : Apprendre
-- [x] **Étape n° 2 : Identifier les contours du projet via la note de réunion
-- [x] **Étape n° 3 : Créer le diagramme de cas d'usage
-- [x] **Étape n° 4 : Créer le digramme user stories
-- [x] **Étape n° 5 : Concevoir la maquette desktop + mobile sur Figma
-- [x] **Étape n° 6 : Créer le tableau Kanban
-- [x] **Étape n° 7 : Finaliser les attendus
+- [x] **Étape n° 1 :** Apprendre
+- [x] **Étape n° 2 :** Identifier les contours du projet via la note de réunion
+- [x] **Étape n° 3 :** Créer le diagramme de cas d'usage
+- [x] **Étape n° 4 :** Créer le digramme user stories
+- [x] **Étape n° 5 :** Concevoir la maquette desktop + mobile sur Figma
+- [x] **Étape n° 6 :** Créer le tableau Kanban
+- [x] **Étape n° 7 :** Finaliser les attendus
 
 ---
