@@ -9,7 +9,7 @@ Createur: **Tom ANDRE**
   
   📝 [Diagramme Cas D'usage](https://github.com/ToxyhDev/OC-Dev_App_JS_React-P10-LearnAtHome/blob/main/Andre_Tom_1_diagramme_cas_usage_102023.pdf)
 
-  📝 [User Stories](https://github.com/ToxyhDev/OC-Dev_App_JS_React-P10-LearnAtHome/blob/main/Andre_Tom_2_user_stories_102023.pdf)
+  📝 [User Stories](https://github.com/ToxyhDev/OC-Dev_App_JS_React-P10-LearnAtHome/blob/main/Andre_Tom_2_user_stories_112023.pdf)
 
   🎨 [Maquette Figma](https://www.figma.com/file/grGjDaEDJ6sZHjoyEYn5jN/OC---Projet-10-Learn%40Home?type=design&node-id=0-1&mode=design&t=GyHdba2O8KxDRk69-0)
   
